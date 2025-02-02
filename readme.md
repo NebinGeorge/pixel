@@ -1,5 +1,5 @@
 ## HEPMC and Analysis files for pixel analysis in EIC-dRICH (digitized version)
-Pixel size analysis of EIC-dRICH SiPMs was studied by obtaining photon hit positions from digitized(includes pixel size uncertainity) and undigitized hits(actual coordinates, independent of pixel size). The following files were generated for digitalized hits:
+Pixel size analysis of EIC-dRICH SiPMs was studied by obtaining photon hit positions from digitized(includes pixel size uncertainity) and undigitized hits(actual coordinates, independent of pixel size). The following files were generated for digitized hits:
 
 Analysis done by Nebin George 
 
