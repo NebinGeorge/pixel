@@ -1,5 +1,5 @@
-## HEPMC and Analysis files for pixel analysis in EIC-dRICH (digitalized version)
-
+## HEPMC and Analysis files for pixel analysis in EIC-dRICH (digitized version)
+Pixel size analysis of EIC-dRICH SiPMs was studied by obtaining photon hit positions from digitized(includes pixel size uncertainity) and undigitized hits(actual coordinates, independent of pixel size). The following files were generated for digitalized hits:
 
 Analysis done by Nebin George 
 
@@ -36,7 +36,8 @@ PHI BIN : [0,1,2,3,4,5,6,7], corresponding PHI VALUE: [0, 45, 90, 135, 180, 225,
 | 5           | 225 |
 | 6           | 270 |
 | 7           | 315 |
- 
+
+Link for undigitized hits files: https://github.com/NebinGeorge/pixel_mc
 
 
 
